@@ -9,6 +9,6 @@ eCunit is supposed to become a TDD enabling testing framework for embedded C dev
 * To enable test driven development, we add automocking features.
 * For general testing we add logging features.
 
-The project will be developed in JAVA usong TDD.
+The project will be developed in JAVA using TDD.
 
 More information will be added at http://ecunit.org
